@@ -311,14 +311,13 @@ mySkills:
 myGallery:
   enable: true
   data:
-    - /medias/featureimages/myGallery0.jpg
-    - /medias/featureimages/myGallery1.jpg
-    - /medias/featureimages/myGallery2.jpg
-    - /medias/featureimages/myGallery3.jpg
-    - /medias/featureimages/myGallery4.jpg
-    - /medias/featureimages/myGallery5.jpg
-    - /medias/featureimages/myGallery6.jpg
-    - /medias/featureimages/myGallery7.jpg
+    - /medias/myGallery/1.jpg
+    - /medias/myGallery/2.jpg
+    - /medias/myGallery/3.jpg
+    - /medias/myGallery/4.jpg
+    - /medias/myGallery/5.jpg
+    - /medias/myGallery/6.jpg
+    - /medias/myGallery/7.jpg
 
 # Whether to display post-calender in the `archive` page
 # 设置在归档页面中是否显示'文章日历'控件
@@ -534,7 +533,6 @@ libs:
 # The post featured images that needs to be displayed when there is no image.
 # 无文章特色图片时需要显示的文章特色图片.
 featureImages:
-- /medias/featureimages/0.jpg
 - /medias/featureimages/1.jpg
 - /medias/featureimages/2.jpg
 - /medias/featureimages/3.jpg
@@ -674,6 +672,110 @@ featureImages:
 - /medias/featureimages/138.jpg
 - /medias/featureimages/139.jpg
 - /medias/featureimages/140.jpg
+- /medias/featureimages/141.jpg
+- /medias/featureimages/142.jpg
+- /medias/featureimages/143.jpg
+- /medias/featureimages/144.jpg
+- /medias/featureimages/145.jpg
+- /medias/featureimages/146.jpg
+- /medias/featureimages/147.jpg
+- /medias/featureimages/148.jpg
+- /medias/featureimages/149.jpg
+- /medias/featureimages/150.jpg
+- /medias/featureimages/151.jpg
+- /medias/featureimages/152.jpg
+- /medias/featureimages/153.jpg
+- /medias/featureimages/154.jpg
+- /medias/featureimages/155.jpg
+- /medias/featureimages/156.jpg
+- /medias/featureimages/157.jpg
+- /medias/featureimages/158.jpg
+- /medias/featureimages/159.jpg
+- /medias/featureimages/160.jpg
+- /medias/featureimages/161.jpg
+- /medias/featureimages/162.jpg
+- /medias/featureimages/163.jpg
+- /medias/featureimages/164.jpg
+- /medias/featureimages/165.jpg
+- /medias/featureimages/166.jpg
+- /medias/featureimages/167.jpg
+- /medias/featureimages/168.jpg
+- /medias/featureimages/169.jpg
+- /medias/featureimages/170.jpg
+- /medias/featureimages/171.jpg
+- /medias/featureimages/172.jpg
+- /medias/featureimages/173.jpg
+- /medias/featureimages/174.jpg
+- /medias/featureimages/175.jpg
+- /medias/featureimages/176.jpg
+- /medias/featureimages/177.jpg
+- /medias/featureimages/178.jpg
+- /medias/featureimages/179.jpg
+- /medias/featureimages/180.jpg
+- /medias/featureimages/181.jpg
+- /medias/featureimages/182.jpg
+- /medias/featureimages/183.jpg
+- /medias/featureimages/184.jpg
+- /medias/featureimages/185.jpg
+- /medias/featureimages/186.jpg
+- /medias/featureimages/187.jpg
+- /medias/featureimages/188.jpg
+- /medias/featureimages/189.jpg
+- /medias/featureimages/190.jpg
+- /medias/featureimages/191.jpg
+- /medias/featureimages/192.jpg
+- /medias/featureimages/193.jpg
+- /medias/featureimages/194.jpg
+- /medias/featureimages/195.jpg
+- /medias/featureimages/196.jpg
+- /medias/featureimages/197.jpg
+- /medias/featureimages/198.jpg
+- /medias/featureimages/199.jpg
+- /medias/featureimages/200.jpg
+- /medias/featureimages/201.jpg
+- /medias/featureimages/202.jpg
+- /medias/featureimages/203.jpg
+- /medias/featureimages/204.jpg
+- /medias/featureimages/205.jpg
+- /medias/featureimages/206.jpg
+- /medias/featureimages/207.jpg
+- /medias/featureimages/208.jpg
+- /medias/featureimages/209.jpg
+- /medias/featureimages/210.jpg
+- /medias/featureimages/211.jpg
+- /medias/featureimages/212.jpg
+- /medias/featureimages/213.jpg
+- /medias/featureimages/214.jpg
+- /medias/featureimages/215.jpg
+- /medias/featureimages/216.jpg
+- /medias/featureimages/217.jpg
+- /medias/featureimages/218.jpg
+- /medias/featureimages/219.jpg
+- /medias/featureimages/220.jpg
+- /medias/featureimages/221.jpg
+- /medias/featureimages/222.jpg
+- /medias/featureimages/223.jpg
+- /medias/featureimages/224.jpg
+- /medias/featureimages/225.jpg
+- /medias/featureimages/226.jpg
+- /medias/featureimages/227.jpg
+- /medias/featureimages/228.jpg
+- /medias/featureimages/229.jpg
+- /medias/featureimages/230.jpg
+- /medias/featureimages/231.jpg
+- /medias/featureimages/232.jpg
+- /medias/featureimages/233.jpg
+- /medias/featureimages/234.jpg
+- /medias/featureimages/235.jpg
+- /medias/featureimages/236.jpg
+- /medias/featureimages/237.jpg
+- /medias/featureimages/238.jpg
+- /medias/featureimages/239.jpg
+- /medias/featureimages/240.jpg
+- /medias/featureimages/241.jpg
+- /medias/featureimages/242.jpg
+- /medias/featureimages/243.jpg
+
 # default configs that the default policy for every articles/posts
 # default 配置文章的默认转载规则
 
